@@ -1,0 +1,119 @@
+% Flowcharting techniques for easy maintenance
+% Author: Brent Longborough
+\documentclass[x11names]{standalone}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usetikzlibrary{shapes,arrows,chains}
+\begin{document}
+% =================================================
+% Set up a few colours
+\colorlet{lcfree}{Green2}
+\colorlet{lcnorm}{Blue3}
+\colorlet{lccong}{Red3}
+%\definecolor{lcfree}{rgb}{0.262,0.709,0.613}
+%\definecolor{lcnorm}{rgb}{0.933, 0.227, 0.286}
+%\definecolor{lccong}{rgb}{0.933, 0.756, 0.227}
+% -------------------------------------------------
+% Set up a new layer for the debugging marks, and make sure it is on
+% top
+\pgfdeclarelayer{marx}
+\pgfsetlayers{main,marx}
+% A macro for marking coordinates (specific to the coordinate naming
+% scheme used here). Swap the following 2 definitions to deactivate
+% marks.
+
+\providecommand{\cmark}[2][]{\relax} 
+\providecommand{\cmark}[2][]{%
+  \begin{pgfonlayer}{marx}
+    \node [nmark] at (c#2#1) {#2};
+  \end{pgfonlayer}{marx}
+  } 
+% -------------------------------------------------
+% Start the picture
+\begin{tikzpicture}[%
+    >=triangle 60,              % Nice arrows; your taste may be different
+    start chain=going below,    % General flow is top-to-bottom
+    node distance=6mm and 60mm, % Global setup of box spacing
+    every join/.style={norm},   % Default linetype for connecting boxes
+    ]
+% ------------------------------------------------- 
+% A few box styles 
+% <on chain> *and* <on grid> reduce the need for manual relative
+% positioning of nodes
+\tikzset{
+  base/.style={draw, on chain, on grid, align=center, minimum height=4ex},
+  proc/.style={base, rectangle, text width=8em},
+  test/.style={base, diamond, aspect=2, text width=5em},
+  term/.style={proc, rounded corners},
+  % coord node style is used for placing corners of connecting lines
+  coord/.style={coordinate, on chain, on grid, node distance=6mm and 25mm},
+  % nmark node style is used for coordinate debugging marks
+  nmark/.style={draw, cyan, circle, font={\sffamily\bfseries}},
+  % -------------------------------------------------
+  % Connector line styles for different parts of the diagram
+  norm/.style={->, draw, lcnorm},
+  free/.style={->, draw, lcfree},
+  cong/.style={->, draw, lccong},
+  it/.style={font={\small\itshape}}
+}
+% -------------------------------------------------
+% Start by placing the nodes
+\node [proc, densely dotted, it] (p0) {goto \textbf{Home} Position: (0,0,0)};
+% Use join to connect a node to the previous one 
+\node [term, join,fill=lcfree!15]      {Request Ink Setup};
+\node [proc, join] (p1) {goto Device $n$:\\ $(x_n/2,y_n,z_n)$};
+\node [proc, join]      {goto \\ ($\mathbin{x_n +x^*_n, y_n +y_q}$)};
+\node [proc, join]      {goto ($z_n -z_0 +z_m$)};
+\node [test, join] (t1) {Needle in surface?};
+% No join for exits from test nodes - connections have more complex
+% requirements
+% We continue until all the blocks are positioned
+\node [proc] (p2)         {$z_0 + z_m$};
+\node [proc, join] 	   {$x_n/2 + \Delta x \rightarrow y_n + y_\text{off}$};
+\node [test, join] (t2) {Second Pass?};
+\node [test, join] (t3) {Last Sample?};
+\node [test, join] (t4) {$n \mathbin{{+}{=}} 1$};
+% We position the next block explicitly as the first block in the
+% second column.  The chain 'comes along with us'. The distance
+% between columns has already been defined, so we don't need to
+% specify it.
+% Some more nodes specifically positioned (we could have avoided this,
+\node [proc, join=by cong, right=of t4] (p9) {Print Report};
+\node [term, join] (p10) {Exit Program};
+% -------------------------------------------------
+% Now we place the coordinate nodes for the connectors with angles, or
+% with annotations. We also mark them for debugging.
+\node [coord, left=of t4]  (c4)  {}; \cmark{4}   
+\node [coord, right=of t4] (c4r) {}; \cmark[r]{4}  
+% -------------------------------------------------
+% A couple of boxes have annotations
+% -------------------------------------------------
+% All the other connections come out of tests and need annotating
+% First, the straight north-south connections. In each case, we first
+% draw a path with a (consistently positioned) annotation node, then
+% we draw the arrow itself.
+\path (t1.south) to node [near start, xshift=1em] {$y$} (p2);
+  \draw [*->,lcnorm] (t1.south) -- (p2);
+% ------------------------------------------------- 
+% Now the straight east-west connections. To provide consistent
+% positioning of the test exit annotations, we have positioned
+% coordinates for the vertical part of the connectors. The annotation
+% text is positioned on a path to the coordinate, and then the whole
+% connector is drawn to its destination box.
+\path (t4.east) to node [yshift=-1em] {$n=N$} (c4r); 
+  \draw [o->,lcnorm] (t4.east) -- (p9);
+% -------------------------------------------------
+% Finally, the twisty connectors. Again, we place the annotation
+% first, then draw the connector
+\path (t4.west) to node [yshift=-1em] {$n<N$} (c4); 
+  \draw [*->,lcnorm] (t4.west) -- (c4) |- (p1);
+% -------------------------------------------------
+% A last flourish which breaks all the rules
+\draw [->,MediumPurple4, dotted, thick, shorten >=1mm]
+  (p9.south) -- ++(5mm,-3mm)  -- ++(27mm,0) 
+  |- node [black, near end, yshift=0.75em, it]
+    {(Clear all settings and restart program)} (p0);
+% -------------------------------------------------
+\end{tikzpicture}
+% =================================================
+\end{document}

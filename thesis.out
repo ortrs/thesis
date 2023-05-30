@@ -1,0 +1,40 @@
+\BOOKMARK [0][-]{chapter*.1}{Abstract}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 2
+\BOOKMARK [0][-]{chapter.2}{Theoretical Framework}{}% 3
+\BOOKMARK [1][-]{section.2.1}{Integration Process Fundamentals}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.1.1}{Waveguide Structures}{section.2.1}% 5
+\BOOKMARK [1][-]{section.2.2}{Optical Modulators}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.1}{Principle of Operation}{section.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.2}{Electro-Optic Effect}{section.2.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.3}{Silicon-Organic Hybrid Modulators}{section.2.2}% 9
+\BOOKMARK [1][-]{section.2.3}{Photonic Wire Bonds}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.3.1}{Fabrication Process}{section.2.3}% 11
+\BOOKMARK [2][-]{subsection.2.3.2}{Photonic Wire Bond Stability}{section.2.3}% 12
+\BOOKMARK [1][-]{section.2.4}{Integrated Transmitters}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.4.1}{Horizontal Cavity Surface Emitting Laser}{section.2.4}% 14
+\BOOKMARK [2][-]{subsection.2.4.2}{Full Transmitter}{section.2.4}% 15
+\BOOKMARK [0][-]{chapter.3}{Integration Process}{}% 16
+\BOOKMARK [1][-]{section.3.1}{Overview}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.2}{Process Flow}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.2.1}{HCSEL Pre-characterization}{section.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.2.2}{Mount Assembly}{section.3.2}% 20
+\BOOKMARK [2][-]{subsection.3.2.3}{PWB Fabrication}{section.3.2}% 21
+\BOOKMARK [2][-]{subsection.3.2.4}{Local Deposition}{section.3.2}% 22
+\BOOKMARK [2][-]{subsection.3.2.5}{Electrical Poling}{section.3.2}% 23
+\BOOKMARK [2][-]{subsection.3.2.6}{Optically Packaged Transmitter}{section.3.2}% 24
+\BOOKMARK [1][-]{section.3.3}{Process Flow Modifications}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.1}{Integrated Gate-Voltage Chip Module}{section.3.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.2}{Modified Process Flow and Results}{section.3.3}% 27
+\BOOKMARK [2][-]{subsection.3.3.3}{Thermal Roll-off Analysis}{section.3.3}% 28
+\BOOKMARK [0][-]{chapter.4}{Data Transmission Experiments}{}% 29
+\BOOKMARK [1][-]{section.4.1}{Direct Detection Data Transmission Experiment}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.2}{Coherent Detection Data Transmission Experiment}{chapter.4}% 31
+\BOOKMARK [0][-]{chapter.5}{Summary and Outlook}{}% 32
+\BOOKMARK [0][-]{chapter.6}{Acknowledgements}{}% 33
+\BOOKMARK [0][-]{chapter*.49}{Bibliography}{}% 34
+\BOOKMARK [0][-]{appendix.A}{Appendix}{}% 35
+\BOOKMARK [1][-]{section.A.1}{Calculation of Bit Error Ratio}{appendix.A}% 36
+\BOOKMARK [1][-]{section.A.2}{Gate Voltage Theory and Implementation}{appendix.A}% 37
+\BOOKMARK [1][-]{section.A.3}{Schematic Diagram of IME05-MS3 Full Transmitter}{appendix.A}% 38
+\BOOKMARK [1][-]{section.A.4}{Device Manufacturing: Local Deposition}{appendix.A}% 39
+\BOOKMARK [2][-]{subsection.A.4.1}{Graphic User Interface Improvements}{section.A.4}% 40

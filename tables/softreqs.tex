@@ -1,0 +1,55 @@
+% Schematic representation of mach zender interferometer
+% Modified from a version created by Henrik Kröger, https://github.com/derhedwig/fiberoptics/blob/master/auswertung.tex
+% Author: Orlando Torres (2016)
+
+\documentclass[12pt,a4paper,preview]{standalone}
+\usepackage{amsmath} % Required for \varPsi below
+\usepackage{tikz,pgfplots}
+\usetikzlibrary{calc}
+\usetikzlibrary{patterns}
+\usetikzlibrary{backgrounds}
+\usepackage{caption}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{siunitx}
+\usepackage{rotating}
+\usepackage{pdflscape}
+\usepackage{array} 
+\usepackage{graphicx}
+%\sisetup{binary-units = true,table-format=7.0}
+
+\begin{document}
+
+\begin{landscape}
+%\minipage{1.08\textwidth}
+%\addtolength{\tabcolsep}{-1.0pt}
+\begin{table}[htbp]
+\centering
+\newcommand*{\tpb}[1]{{\parbox[c]{10cm}{\raggedright #1}}}%
+\newcommand*{\tpd}[1]{{\parbox[c]{4cm}{\raggedright #1}}}%
+\scalebox{0.9}{
+\begin{tabular}{@{}lllll@{}}
+\toprule
+ID & Feature                          & Description                                                                                                                                                                      & Priority & Status \\ \midrule
+1  & \tpd{Automatic Dispensing }            & \tpb{The dispense mechanism for polymers is mostly automated. }                                                                                                                        & Top      & Open   \\\midrule
+2  & \tpd{Double Slot Deposition }          & \tpb{Dispense mechanism can deposit a polymer on a double slot simultaneously  }                                                                                                       & High     & Open   \\\midrule
+3  & \tpd{Column Deposition }               & \tpb{Dispense mechanism can deposit a polymer on a double slot simultaneously in an column of equally-sized devices        }                                                           & High     & Open   \\\midrule
+4  & \tpd{Multi-column Deposition }         & \tpb{Dispense mechanism can deposit a polymer on a double slot simultaneously in multiple columns of equally-sized devices  }                                                          & High     & Open   \\\midrule
+5  & \tpd{$z$-axis tolerancing }            & \tpb{Take into account leveling differences of the chip due to manufacturing tolerances to avoid device damage or needle breakage.   }                                                 & Low      & Open   \\\midrule
+6  & \tpd{$xy$-axis tolerancing}            & \tpb{Take into account $xy$-plane alignment of the device for roll, pitch and yaw (rotations in $x$-, $y$- and $z$-axis, respectively) }                                               & Medium   & Open   \\\midrule
+7  & \tpd{Multiple Polymer Dispensing }     & \tpb{Enable the user to dispense multiple types of polymer at specific columns or row sets.}                                                                                           & Low      & Open   \\\midrule
+8  & \tpd{Matrix Deposition}                & \tpb{Dispense mechanism can have different column, row, and device settings in the advanced menu.} 																			& Low      & Open   \\\midrule
+9  & \tpd{Height Detection  }               & \tpb{Use PID controller feedback in the motor driver to detect collision.}                                                                                                             & Low      & Open   \\\midrule
+10 & \tpd{Report Generation}                & \tpb{Generate report of activities with time stamps, total duration of deposition, location of polymers, device sizes, offsets, and general calculations and detections.}              & Medium   & Open   \\\midrule
+11 & \tpd{Camera Visualization  }           & \tpb{Visualize the current layout using one of the cameras directly connected to the driving computer.  }                                                                              & Medium   & Open   \\\midrule
+12 & \tpd{Full Field-of-View Visualization} & \tpb{Use a network arrangement to be able to observe both cameras at the same time using a single screen.   }                                                                          & Low      & Open   \\\midrule
+13 & \tpd{Image Processing}                 & \tpb{Automated detection of offsets, locations, distances and devices.               }                                                                                                 & Low      & Open   \\ \bottomrule
+\end{tabular}
+}
+\caption{Software requirements decision matrix.}
+\label{table:softreqs}
+\end{table}
+\end{landscape}
+%\end{sidewaystable}
+
+\end{document}

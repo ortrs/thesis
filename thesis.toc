@@ -1,0 +1,51 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\contentsline {chapter}{Abstract}{i}{chapter*.1}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Theoretical Framework}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Integration Process Fundamentals}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Waveguide Structures}{6}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Optical Modulators}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Principle of Operation}{7}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Electro-Optic Effect}{11}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Silicon-Organic Hybrid Modulators}{11}{subsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Organic Electro-Optic Compounds}{13}{subsubsection.2.2.3.1}
+\contentsline {subsubsection}{\numberline {2.2.3.2}Poling techniques}{15}{subsubsection.2.2.3.2}
+\contentsline {subsubsection}{\numberline {2.2.3.3}Organic material stability}{16}{subsubsection.2.2.3.3}
+\contentsline {section}{\numberline {2.3}Photonic Wire Bonds}{17}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Fabrication Process}{18}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Photonic Wire Bond Stability}{19}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Integrated Transmitters}{20}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Horizontal Cavity Surface Emitting Laser}{20}{subsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.1.1}Laser Requirements}{21}{subsubsection.2.4.1.1}
+\contentsline {subsubsection}{\numberline {2.4.1.2}HCSEL Pre-characterization}{22}{subsubsection.2.4.1.2}
+\contentsline {subsection}{\numberline {2.4.2}Full Transmitter}{23}{subsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.2.1}Optical Path Loss}{24}{subsubsection.2.4.2.1}
+\contentsline {chapter}{\numberline {3}Integration Process}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}Overview}{27}{section.3.1}
+\contentsline {section}{\numberline {3.2}Process Flow}{27}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}HCSEL Pre-characterization}{29}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}LI Curve}{29}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.2}Spectral curve}{30}{subsubsection.3.2.1.2}
+\contentsline {subsection}{\numberline {3.2.2}Mount Assembly}{31}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}PWB Fabrication}{32}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Local Deposition}{33}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Electrical Poling}{33}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Optically Packaged Transmitter}{34}{subsection.3.2.6}
+\contentsline {section}{\numberline {3.3}Process Flow Modifications}{35}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Integrated Gate-Voltage Chip Module}{36}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Modified Process Flow and Results}{38}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Thermal Roll-off Analysis}{40}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {4}Data Transmission Experiments}{43}{chapter.4}
+\contentsline {section}{\numberline {4.1}Direct Detection Data Transmission Experiment}{43}{section.4.1}
+\contentsline {section}{\numberline {4.2}Coherent Detection Data Transmission Experiment}{45}{section.4.2}
+\contentsline {chapter}{\numberline {5}Summary and Outlook}{47}{chapter.5}
+\contentsline {chapter}{\numberline {6}Acknowledgements}{49}{chapter.6}
+\contentsline {chapter}{\nonumberline Bibliography}{51}{chapter*.49}
+\contentsline {chapter}{\numberline {A}Appendix}{55}{appendix.A}
+\contentsline {section}{\numberline {A.1}Calculation of Bit Error Ratio}{55}{section.A.1}
+\contentsline {section}{\numberline {A.2}Gate Voltage Theory and Implementation}{56}{section.A.2}
+\contentsline {section}{\numberline {A.3}Schematic Diagram of IME05-MS3 Full Transmitter}{56}{section.A.3}
+\contentsline {section}{\numberline {A.4}Device Manufacturing: Local Deposition}{57}{section.A.4}
+\contentsline {subsection}{\numberline {A.4.1}Graphic User Interface Improvements}{58}{subsection.A.4.1}

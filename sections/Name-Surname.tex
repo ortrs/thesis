@@ -1,0 +1,120 @@
+%------------------------------------------------------|
+%                                                      |
+% DOC-2014 LaTex Template               |
+%                                                      |
+% http://docriga.lv/                       |
+%                                                      |
+%------------------------------------------------------|
+
+\documentclass[10pt,a5paper]{article}
+\usepackage[a5paper]{geometry}
+\setlength{\textwidth}{12.5cm} \setlength{\textheight}{18cm}
+\setlength{\hoffset}{-1.4cm} \setlength{\voffset}{-1.5cm}
+\thispagestyle{empty}
+
+\renewcommand\figurename{\small{Figure}}
+\renewcommand\tablename{\small{Table}}
+\def\captionlabeldelim{.}%
+\usepackage{graphics}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\linespread{1.0}
+\begin{document}
+
+\begin{center}
+    \begin{large}   %%%  Insert your title here
+    \textbf{How to prepare an abstract for DOC?}\\
+    \end{large}
+\begin{small}                    %%%  Insert the Authors here
+\vspace*{.15cm} First Author$^1$, Second Author$^2$, \underline{Third Author}$^{2,*}$  %etc... Corresponding author should be underlined
+\vspace*{.05cm}
+%%%  Insert the first address here
+\\\textit{$^1$Laser Centre, University of Latvia, Rainis blvd. 19, Riga, Latvia, LV-1586}
+%%%  Insert the second address here
+\\\textit{$^2$Institute of Solid State Physics,
+Kengaraga 8, Riga, Latvia, LV-1063}
+%\\\textit{$^3$Insert the third address here (optional)}
+%\\\textit{$^4$Insert the fourth address here (optional) etc...}
+\\\textit{$^*$E-mail:} third.author@lu.lv, %%%%%%%%%%     Insert the corresponding author e-mail here
+\end{small}
+\end{center}
+\vspace*{.1cm}
+\begin{small}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%             Insert your abstract here                                      %%%
+The size of the abstract is limited to \textbf{one A5 page}.
+Figures and Tables are allowed (see Fig. \ref{fig:1} and Tab.
+\ref{tab:1}). References should be listed just below the abstract
+[1,2]. Internet references are accepted [3].
+%%%             Insert your Table here                                         %%%
+\begin{table}[!ht]
+\vspace*{-.4cm}
+\begin{center}
+\caption{\small{Write your table caption here.}}
+\label{tab:1}                                                  % Give a unique label
+\begin{tabular}{@{}clr@{}}
+\hline \small{first} & \small{second} & \small{third}\\
+\hline \small{number} & \small{number} & \small{number} \\
+\small{number} & \small{number} & \small{number} \\
+\small{number} & \small{number} & \small{number} \\
+\hline
+\end{tabular}
+\end{center}
+\vspace*{-.5cm}
+\end{table}
+%%%             Insert your Figure here                                        %%%
+\begin{figure}[!h]
+\vspace*{-.5cm}
+\begin{center}
+\resizebox{0.45\textwidth}{!}{%
+\includegraphics{name-surname-fig1.pdf}}
+\caption{\small{Write your figure caption here.}}
+\label{fig:1}                                                   % Give a unique label
+\end{center}
+\vspace*{-.5cm}
+\end{figure}
+The files will be compiled using Xetex so we encourage to use \textit{*.pdf} files as images, though \textit{*.eps} files are also accepted. The image files should be named as \textit{name-surname-fig1.pdf}, \textit{name-surname-fig2.pdf}, etc.
+
+We give hereafter some useful \LaTeX~instructions that are of
+common use:
+\\
+$\bullet$ For subscript, use: $^{up}$ and for underscript, use:
+$_{down}$.
+\\
+$\bullet$ For a word in bold, use: \textbf{bold}; for a word in
+italic, use: \textit{italic}
+\\
+$\bullet$ Greek letters: $\alpha$ $\beta$ $\gamma$ $\delta$
+ $\epsilon$ $\varepsilon$ $\zeta$ $\eta$ $\theta$
+$\vartheta$ $\iota$ $\kappa$ $\lambda$ $\mu$ $\nu$ $\xi$ $o$
+$\pi$ $\varpi$ $\rho$ $\varrho$ $\sigma$ $\varsigma$ $\tau$
+$\upsilon$ $\phi$ $\varphi$ $\chi$ $\psi$ $\omega$ $\Gamma$
+$\Delta$ $\Omega$ %etc...
+\\
+$\bullet$ Equations (see Eq. (\ref{eq:1})):
+\begin{equation}
+\Psi=\Phi-\Sigma
+\label{eq:1}% Give a unique label
+\end{equation}
+
+
+\textit{All other \LaTeX~commands are also allowed.}
+
+\textbf{No additional \LaTeX packages are allowed.}
+
+Name your file as \textit{name-surname.tex}
+
+If You use images, compress the image file(s) and \LaTeX source in a zip file naming it \textit{name-surname.zip}. No directory structure is allowed in the \textit{zip} file.
+
+\textbf{Please compile the file yourself before submitting!}
+
+\end{small}
+{\begin{small}
+\noindent{\textbf{References}}\\
+$[1]$ Author, Journal \textbf{Volume}, page numbers (year)\\ % Format for Journal Reference
+$[2]$ Author, \textit{Book title} (Publisher, place year)\\ % Format for books
+$[3]$ http://docriga.lv/ % Format for internet references
+% etc}
+\end{small}}
+
+\end{document}

@@ -1,0 +1,2218 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{AcunaPnoise13}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=14e113fc7e5a7b4fb5a89651fbb6afa8}{%
+           family={Acuna},
+           familyi={A\bibinitperiod},
+           given={P.\bibnamedelimi Fernandez},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Chalmers University of Technology}%
+      }
+      \strng{namehash}{14e113fc7e5a7b4fb5a89651fbb6afa8}
+      \strng{fullhash}{14e113fc7e5a7b4fb5a89651fbb6afa8}
+      \strng{authornamehash}{14e113fc7e5a7b4fb5a89651fbb6afa8}
+      \strng{authorfullhash}{14e113fc7e5a7b4fb5a89651fbb6afa8}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Phase Noise Filtering for Coherent Optical Communications}
+      \field{type}{phdthesis}
+      \field{year}{2013}
+    \endentry
+    \entry{SmitSiPh14}{article}{}
+      \name{author}{1}{}{%
+        {{hash=88ed9605ff5983f7403f0fa696a0df6c}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={M.\bibnamedelimi Smit},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={et.},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{88ed9605ff5983f7403f0fa696a0df6c}
+      \strng{fullhash}{88ed9605ff5983f7403f0fa696a0df6c}
+      \strng{authornamehash}{88ed9605ff5983f7403f0fa696a0df6c}
+      \strng{authorfullhash}{88ed9605ff5983f7403f0fa696a0df6c}
+      \field{sortinit}{a}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Semicond. Sci. Technol.}
+      \field{title}{An introduction to InP-based generic integration technology}
+      \field{volume}{29}
+      \field{year}{2014}
+    \endentry
+    \entry{gateAlloatti12}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=b4f4b5825ebf333b90839ff265b950ea}{%
+           family={Alloatti},
+           familyi={A\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Karlsruhe Institute of Technology}%
+      }
+      \list{location}{1}{%
+        {Straße Am Forum 2, 76131, Karlsruhe}%
+      }
+      \strng{namehash}{b4f4b5825ebf333b90839ff265b950ea}
+      \strng{fullhash}{b4f4b5825ebf333b90839ff265b950ea}
+      \strng{authornamehash}{b4f4b5825ebf333b90839ff265b950ea}
+      \strng{authorfullhash}{b4f4b5825ebf333b90839ff265b950ea}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{High-Speed, Low-Power and Mid-IR Silicon Photonics Application}
+      \field{type}{phdthesis}
+      \field{year}{2012}
+    \endentry
+    \entry{BachmannMMI94}{article}{}
+      \name{author}{3}{}{%
+        {{hash=74f553743c9812a5f3053b47af116c3a}{%
+           family={Bachmann},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b53b1195e24b61eefd54fa39d23ef3e3}{%
+           family={Besse},
+           familyi={B\bibinitperiod},
+           given={P.A.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bc66a6602226015f366714777865aa27}{%
+           family={Melchior},
+           familyi={M\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OSA}%
+      }
+      \strng{namehash}{60383fa12925cd5ec3c2eca4a7c6bc63}
+      \strng{fullhash}{60383fa12925cd5ec3c2eca4a7c6bc63}
+      \strng{authornamehash}{60383fa12925cd5ec3c2eca4a7c6bc63}
+      \strng{authorfullhash}{60383fa12925cd5ec3c2eca4a7c6bc63}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Optics}
+      \field{title}{{General self-imaging properties in N x N multimode interference couplers including phase relations}}
+      \field{volume}{33}
+      \field{year}{1994}
+      \field{pages}{3905\bibrangedash 3911}
+      \range{pages}{7}
+    \endentry
+    \entry{BainTemp10}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a9c22fdacb7961daaf40f482679aad17}{%
+           family={Bain},
+           familyi={B\bibinitperiod},
+           given={L.E.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6853bc0d88a9436a5f57d421bd80be7b}{%
+           family={Olafsen},
+           familyi={O\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0634a97ce7e36d3367a0a1ed61287a41}
+      \strng{fullhash}{0634a97ce7e36d3367a0a1ed61287a41}
+      \strng{authornamehash}{0634a97ce7e36d3367a0a1ed61287a41}
+      \strng{authorfullhash}{0634a97ce7e36d3367a0a1ed61287a41}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Temperature Dependence of the Wavelength Spectrum of a Resonantly Pumped W-OPIC Laser}}
+      \field{year}{2011}
+    \endentry
+    \entry{BehfarHCSEL05}{article}{}
+      \name{author}{5}{}{%
+        {{hash=3b86c423f6fba8a324fa396e6cf37d8a}{%
+           family={Behfar},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b465dce705797c3c726ac21fbfd382fb}{%
+           family={Schremer},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0c2970a0f91445994b951e9a2877d967}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c8740cc6f7524429059c832970603888}{%
+           family={Stagarescu},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a98fa6f89f303694cc25f8865518c992}{%
+           family={Morrow},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SPIE}%
+      }
+      \strng{namehash}{25466f288bcabded5af1ba81cf93d81d}
+      \strng{fullhash}{f3a341b1921e4bcb1cf17184567ad8e1}
+      \strng{authornamehash}{25466f288bcabded5af1ba81cf93d81d}
+      \strng{authorfullhash}{f3a341b1921e4bcb1cf17184567ad8e1}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of SPIE}
+      \field{title}{{Horizontal Cavity Surface-Emitting Laser (HCSEL) Devices}}
+      \field{volume}{5737}
+      \field{year}{2005}
+      \field{pages}{62\bibrangedash 68}
+      \range{pages}{7}
+    \endentry
+    \entry{BlumPoling98}{article}{}
+      \name{author}{4}{}{%
+        {{hash=af49205e78703468b71d754088eef5eb}{%
+           family={Blum},
+           familyi={B\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0aa29db0eb52f3219ce6a438211276f9}{%
+           family={Sprave},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=72741aa38bd2864f7023ccce6a420210}{%
+           family={Sablotny},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=26b466f4dc10a251de090c239cf1b0f4}{%
+           family={Eich},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OSA}%
+      }
+      \strng{namehash}{4cd1a23625782a846276e0799afe9388}
+      \strng{fullhash}{ca478a45d1b9f423993b626f6116ab2e}
+      \strng{authornamehash}{4cd1a23625782a846276e0799afe9388}
+      \strng{authorfullhash}{ca478a45d1b9f423993b626f6116ab2e}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Optical Society of America B}
+      \field{title}{{High-electric-field poling of nonlinear optical polymers}}
+      \field{volume}{15}
+      \field{year}{1998}
+      \field{pages}{318\bibrangedash 328}
+      \range{pages}{11}
+    \endentry
+    \entry{BosshardOrgaNLO95}{book}{}
+      \name{author}{7}{}{%
+        {{hash=85f869d2f766ce70d958fdf8de7c6e4b}{%
+           family={Bosshard},
+           familyi={B\bibinitperiod},
+           given={Ch.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9bc808d1346ba633bf014083992db725}{%
+           family={Sutter},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=844e06571782efed92f29b2f2e6ef794}{%
+           family={Prêtre},
+           familyi={P\bibinitperiod},
+           given={Ph.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ea335dca92eb15d17e435a4293307825}{%
+           family={Huliger},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ad7895bed1041130450c62ec5b2d46af}{%
+           family={Flörsheimer},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4fab8ad9f551015b5a62682bd1094d8e}{%
+           family={Kaatz},
+           familyi={K\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f971933f8ac7c17d2b1a96642b3bf902}{%
+           family={Günter},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Gordon}%
+        {Breach Publishers}%
+      }
+      \strng{namehash}{3e066de883212ac890a4d032d4fb043c}
+      \strng{fullhash}{46fd1faa9f0cf8164f1ef1fb8debe45c}
+      \strng{authornamehash}{3e066de883212ac890a4d032d4fb043c}
+      \strng{authorfullhash}{46fd1faa9f0cf8164f1ef1fb8debe45c}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{2-88449-007-8}
+      \field{title}{Organic Nonlinear Optical Materials}
+      \field{year}{2012}
+    \endentry
+    \entry{BoydNLO08}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0d80813dcba3b9d58834f1de49345ebd}{%
+           family={Boyd},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0d80813dcba3b9d58834f1de49345ebd}
+      \strng{fullhash}{0d80813dcba3b9d58834f1de49345ebd}
+      \strng{authornamehash}{0d80813dcba3b9d58834f1de49345ebd}
+      \strng{authorfullhash}{0d80813dcba3b9d58834f1de49345ebd}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-080-48596-6}
+      \field{title}{Nonlinear Optics}
+      \field{year}{2008}
+    \endentry
+    \entry{heteroepiCrumbacker98}{article}{}
+      \name{author}{4}{}{%
+        {{hash=cda4f98df23d8bf5878afd544c248c1b}{%
+           family={Crumbaker},
+           familyi={C\bibinitperiod},
+           given={T.\bibnamedelimi E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=cf6525037db2a2d977b4d7797855cdfe}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={H.\bibnamedelimi Y.},
+           giveni={H\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=77b36851f10a0622a7bcfc679abaf761}{%
+           family={Hafich},
+           familyi={H\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=18ade6fe6129086ff5822b6e498ef043}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={G.\bibnamedelimi Y.},
+           giveni={G\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AVS}%
+      }
+      \strng{namehash}{0005e0c90a45d85092e5b984bb6958e5}
+      \strng{fullhash}{74834cc4ac19e863c2d6e9978d69ec69}
+      \strng{authornamehash}{0005e0c90a45d85092e5b984bb6958e5}
+      \strng{authorfullhash}{74834cc4ac19e863c2d6e9978d69ec69}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Vacuum Science and Technology B, Nanotechnology and Microelectronics: Materials, Processing, Measurement, and Phenomena}
+      \field{title}{{Heteroepitaxy of InP on Si: Reduction of defects by substrate misorientation and thermal annealing }}
+      \field{volume}{188}
+      \field{year}{1998}
+    \endentry
+    \entry{OEDakin06}{book}{}
+      \name{author}{2}{}{%
+        {{hash=cba0459fb61d40ed2b88980a34b3f486}{%
+           family={Dakin},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8e61949995bd22166ff0070ce23adfe5}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi G.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{d8331a053697161542c7c908c0ce5792}
+      \strng{fullhash}{d8331a053697161542c7c908c0ce5792}
+      \strng{authornamehash}{d8331a053697161542c7c908c0ce5792}
+      \strng{authorfullhash}{d8331a053697161542c7c908c0ce5792}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-750-30646-1}
+      \field{title}{Handbook of Optoelectronics (Two-Volume Set)}
+      \field{year}{2006}
+    \endentry
+    \entry{DjordjevicCM10}{book}{}
+      \name{author}{3}{}{%
+        {{hash=ae0498d7606d8db9050300091b589dc9}{%
+           family={Djordjevic},
+           familyi={D\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=0feb91330bb79a57f3e4ca7ed301ed1b}{%
+           family={Ryan},
+           familyi={R\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=805f3460a0729f7b24b78c76d543d728}{%
+           family={Vasic},
+           familyi={V\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9ceceb505b09214c6a5985794af0693c}
+      \strng{fullhash}{9ceceb505b09214c6a5985794af0693c}
+      \strng{authornamehash}{9ceceb505b09214c6a5985794af0693c}
+      \strng{authorfullhash}{9ceceb505b09214c6a5985794af0693c}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-441-95568-5}
+      \field{title}{Coding for Optical Channels}
+      \field{year}{2010}
+    \endentry
+    \entry{SoOrga09}{book}{}
+      \name{author}{1}{}{%
+        {{hash=489a99a2b4d588fb6faa73594ea214ce}{%
+           family={(Ed)},
+           familyi={(\bibinitperiod},
+           given={F.\bibnamedelimi So},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{489a99a2b4d588fb6faa73594ea214ce}
+      \strng{fullhash}{489a99a2b4d588fb6faa73594ea214ce}
+      \strng{authornamehash}{489a99a2b4d588fb6faa73594ea214ce}
+      \strng{authorfullhash}{489a99a2b4d588fb6faa73594ea214ce}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Organic Electronics: Materials, Processing, Devices and Applications}
+      \field{year}{2009}
+    \endentry
+    \entry{GuenterNLO12}{book}{}
+      \name{author}{1}{}{%
+        {{hash=833b177e3a1ed2a75faf7f3cf5022f01}{%
+           family={(Editor)},
+           familyi={(\bibinitperiod},
+           given={P.\bibnamedelimi Günter},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{833b177e3a1ed2a75faf7f3cf5022f01}
+      \strng{fullhash}{833b177e3a1ed2a75faf7f3cf5022f01}
+      \strng{authornamehash}{833b177e3a1ed2a75faf7f3cf5022f01}
+      \strng{authorfullhash}{833b177e3a1ed2a75faf7f3cf5022f01}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9-783-54049-713-4}
+      \field{title}{Nonlinear Optical Effects and Materials}
+      \field{year}{2012}
+    \endentry
+    \entry{Eichlerlaser15}{book}{}
+      \name{author}{2}{}{%
+        {{hash=de3ddebcae5f4e3e472d55d219b7a6f6}{%
+           family={Eichler},
+           familyi={E\bibinitperiod},
+           given={H.\bibnamedelimi J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c2831cf118a7cce7e60af47dc6a68318}{%
+           family={Eichler},
+           familyi={E\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{cc02a34c2571885acc5e1cde6d57f894}
+      \strng{fullhash}{cc02a34c2571885acc5e1cde6d57f894}
+      \strng{authornamehash}{cc02a34c2571885acc5e1cde6d57f894}
+      \strng{authorfullhash}{cc02a34c2571885acc5e1cde6d57f894}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Laser: Bauformen, Strahlführung, Anwendungen}
+      \field{year}{2015}
+    \endentry
+    \entry{SiGroFisher12}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c195b766a32980c67a4ee99bccad124c}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a3544a5390c34bfa17f63e0be2c8ea0e}{%
+           family={Seacrist},
+           familyi={S\bibinitperiod},
+           given={M.R.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=43b7d1a0f205b92ff06dceb1541de8f7}{%
+           family={Standley},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0c8a5f5a7b0a4ac1d7bf6d302b6e1f98}
+      \strng{fullhash}{0c8a5f5a7b0a4ac1d7bf6d302b6e1f98}
+      \strng{authornamehash}{0c8a5f5a7b0a4ac1d7bf6d302b6e1f98}
+      \strng{authorfullhash}{0c8a5f5a7b0a4ac1d7bf6d302b6e1f98}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE}
+      \field{title}{{Silicon Crystal Growth and Wafer Technologies}}
+      \field{volume}{100}
+      \field{year}{2012}
+      \field{pages}{1454\bibrangedash 1464}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/JPROC.2012.2189786
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1109/JPROC.2012.2189786
+      \endverb
+    \endentry
+    \entry{FukudaSOI01}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6f79837391484fb9f8becc39cde87672}{%
+           family={Fukuda},
+           familyi={F\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4b865e0dd4719827a9bcc042c97d606a}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9ca9ebd75b6952ccc01f4e0ab2537ac6}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OKI}%
+      }
+      \strng{namehash}{c819caa9178ed5cbb1f25ed047e42871}
+      \strng{fullhash}{c819caa9178ed5cbb1f25ed047e42871}
+      \strng{authornamehash}{c819caa9178ed5cbb1f25ed047e42871}
+      \strng{authorfullhash}{c819caa9178ed5cbb1f25ed047e42871}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{OKI Technical Review 185}
+      \field{title}{"SOI-CMOS Device Technology"}
+      \field{volume}{68}
+      \field{year}{2001}
+      \field{pages}{54\bibrangedash 57}
+      \range{pages}{4}
+    \endentry
+    \entry{HowardLDTher08}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cfdf7ac30a3b4fdb217b371134d8018e}{%
+           family={Gmachl},
+           familyi={G\bibinitperiod},
+           given={S.\bibnamedelimi S.\bibnamedelimi Howard;\bibnamedelimb Z.\bibnamedelimi Liu;\bibnamedelimb C.\bibnamedelimi F.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{cfdf7ac30a3b4fdb217b371134d8018e}
+      \strng{fullhash}{cfdf7ac30a3b4fdb217b371134d8018e}
+      \strng{authornamehash}{cfdf7ac30a3b4fdb217b371134d8018e}
+      \strng{authorfullhash}{cfdf7ac30a3b4fdb217b371134d8018e}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Quantum Electronics}
+      \field{title}{{Thermal and Stark-Effect Roll-Over of Quantum-Cascade Lasers}}
+      \field{year}{2008}
+    \endentry
+    \entry{HerreraSEO12}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=9a0cba3a15484568827b4692d1ee42cf}{%
+           family={Herrera},
+           familyi={H\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {College of Optical Sciences, University of Arizona}%
+      }
+      \strng{namehash}{9a0cba3a15484568827b4692d1ee42cf}
+      \strng{fullhash}{9a0cba3a15484568827b4692d1ee42cf}
+      \strng{authornamehash}{9a0cba3a15484568827b4692d1ee42cf}
+      \strng{authorfullhash}{9a0cba3a15484568827b4692d1ee42cf}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nonlinear Photonics in Waveguides for Telecommunications}
+      \field{type}{phdthesis}
+      \field{year}{2014}
+    \endentry
+    \entry{HerstensLDchar05}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d34653e2873ca5845f87b0f0cce1c825}{%
+           family={Herstens},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ILX Lightwave}%
+      }
+      \strng{namehash}{d34653e2873ca5845f87b0f0cce1c825}
+      \strng{fullhash}{d34653e2873ca5845f87b0f0cce1c825}
+      \strng{authornamehash}{d34653e2873ca5845f87b0f0cce1c825}
+      \strng{authorfullhash}{d34653e2873ca5845f87b0f0cce1c825}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ILX Lightwave Application Note}
+      \field{title}{"Measuring Diode Laser Characteristics"}
+      \field{year}{2005}
+    \endentry
+    \entry{HertsensLD05}{article}{}
+      \name{author}{1}{}{%
+        {{hash=531911706baa526595a8c6ab6241b13e}{%
+           family={Hertsens},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Newport Corporation}%
+      }
+      \strng{namehash}{531911706baa526595a8c6ab6241b13e}
+      \strng{fullhash}{531911706baa526595a8c6ab6241b13e}
+      \strng{authornamehash}{531911706baa526595a8c6ab6241b13e}
+      \strng{authorfullhash}{531911706baa526595a8c6ab6241b13e}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ILX Lightwave Application Note}
+      \field{title}{{Measuring Diode Laser Characteristics}}
+      \field{year}{2005}
+    \endentry
+    \entry{IshikawaTempLD91}{article}{}
+      \name{author}{5}{}{%
+        {{hash=64a2bd48cc68ab5a992ae49f3eef9975}{%
+           family={Ishikawa},
+           familyi={I\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=786e3026d5d525dbd4c90f490a442261}{%
+           family={H.Shiozawa},
+           familyi={H\bibinitperiod}}}%
+        {{hash=5e53e7da06f3af7c00a8d9767922061a}{%
+           family={Itaya},
+           familyi={I\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=7e5a24a95d4887bbe80e219166cb37c7}{%
+           family={Hatakoshi},
+           familyi={H\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f46f5630ccba044ac4e74119322c9f72}{%
+           family={Uematsu},
+           familyi={U\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{02f0371d3ed0122567c86e9767331e5d}
+      \strng{fullhash}{2363c680cd0eb8d5ace68f54923b8ecb}
+      \strng{authornamehash}{02f0371d3ed0122567c86e9767331e5d}
+      \strng{authorfullhash}{2363c680cd0eb8d5ace68f54923b8ecb}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal of Quantum Electronics}
+      \field{title}{{Temperature Dependence of the Threshold for InGaAlP Visible Laser Diodes}}
+      \field{volume}{27}
+      \field{year}{1991}
+    \endentry
+    \entry{JouaneSEO14}{article}{}
+      \name{author}{6}{}{%
+        {{hash=01d6e40a9bdb6fd568bd73f3fa4b501d}{%
+           family={Jouane},
+           familyi={J\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3cf5c8261c7fb2a7826b6ab7abb6dd16}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Y-C.},
+           giveni={Y\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=84feb515519431c80c5479697032f133}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7fc944a1d396c5621be3c1974d1ad571}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e83ee2ebfe44a8b5792005bca88b13fc}{%
+           family={Jen},
+           familyi={J\bibinitperiod},
+           given={A.\bibnamedelimi K-Y.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=42b253eb0d46e58fbf75ca5be3023a90}{%
+           family={Enami},
+           familyi={E\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{124efbf2574af7fea549da8b17308c88}
+      \strng{fullhash}{0fd52dcd92a86cace18fe9ff87fd2eac}
+      \strng{authornamehash}{124efbf2574af7fea549da8b17308c88}
+      \strng{authorfullhash}{0fd52dcd92a86cace18fe9ff87fd2eac}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Express}
+      \field{title}{{Unprecedented Highest Electro-Optic Coefficient of 226 pm/V for Electro-Optic Polymer/TiO2 Multilayer Slot Waveguide Modulators}}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1364/OE.22.027725
+      \endverb
+    \endentry
+    \entry{Koos_SOH2015}{article}{}
+      \name{author}{25}{}{%
+        {{hash=b5ce9a8ed232c7fab9af5bb16a91c705}{%
+           family={Koos},
+           familyi={K\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e411872546672348cd0ee6570aa4aa31}{%
+           family={Leuthold},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c0939449cfd84e506e70bd923497fc84}{%
+           family={Freude},
+           familyi={F\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=032a2bd92f029f8aa820d0380a7311ba}{%
+           family={Kohl},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4870ebce242d897bbd772eba6ec3ac38}{%
+           family={Dalton},
+           familyi={D\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e148b2337d730f9d47bb1931d1666ed7}{%
+           family={W.Bogaerts},
+           familyi={W\bibinitperiod}}}%
+        {{hash=2d3f248a8b1b7bb7264c68226c6c21e2}{%
+           family={Giesecke},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=950d3edcc9a1e1654d89c3e82162625f}{%
+           family={Lauermann},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=623eba00e89c2a80ef37340fff2686f1}{%
+           family={Melikyan},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6294d6c7177592486b2d20a5bb15effb}{%
+           family={Koeber},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=127a45db30ec9be86403c7de57e3a91c}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5a49c33350aaf1f499d43b8c85d088d5}{%
+           family={Weimann},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7c1fc96fb0e4387fc7f95f9367c0c254}{%
+           family={Muehlbrandt},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=442e5fa592e38f5a966a84e01294d44e}{%
+           family={Koehnle},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ce3b993e7713742e15ab720b3edfe5bd}{%
+           family={Pfeifle},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f47a431a998369438750aabc89f71dae}{%
+           family={Hartmann},
+           familyi={H\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b6cc9191364b8e4660a47d33c2565806}{%
+           family={Kutuvantavida},
+           familyi={K\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c5bfaa38c6fb89223e6baf6f8dc87713}{%
+           family={Ummethala},
+           familyi={U\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=41f0182ade158f314d7d7b7c1d9026d5}{%
+           family={Palmer},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=295857c38dac239d608bc5845c53a7ce}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b4f4b5825ebf333b90839ff265b950ea}{%
+           family={Alloatti},
+           familyi={A\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b79cc0c2a2b8166e09c5f64bbdc4d656}{%
+           family={S.},
+           familyi={S\bibinitperiod},
+           given={P.\bibnamedelimi Claudius},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a694b3d22a817617d5ef8ced53eceba0}{%
+           family={Elder},
+           familyi={E\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1808cdd99d7465b40c0c1870ec6f130d}{%
+           family={Wahlbrink},
+           familyi={W\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=03a73f56f5c583c69fc45c0aef227efb}{%
+           family={Bolten},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{60277da34cb19ee8f4a98b779dddbbdc}
+      \strng{fullhash}{8a7e5a2be1bd0ac6ad22ac0c0fd0365b}
+      \strng{authornamehash}{60277da34cb19ee8f4a98b779dddbbdc}
+      \strng{authorfullhash}{8a7e5a2be1bd0ac6ad22ac0c0fd0365b}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{2}
+      \field{journaltitle}{Journal of Lightwave Technology}
+      \field{title}{{Silicon-Organic Hybrid (SOH) and Plasmonic-Organic Hybrid (POH) Integration}}
+      \field{volume}{34}
+      \field{year}{2015}
+      \field{pages}{256\bibrangedash 268}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/JLT.2015.2499763
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1109/JLT.2015.2499763
+      \endverb
+    \endentry
+    \entry{SOHPICKorn13}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=295857c38dac239d608bc5845c53a7ce}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Karlsruhe Institute of Technology}%
+      }
+      \list{location}{1}{%
+        {Straße Am Forum 2, 76131, Karlsruhe}%
+      }
+      \strng{namehash}{295857c38dac239d608bc5845c53a7ce}
+      \strng{fullhash}{295857c38dac239d608bc5845c53a7ce}
+      \strng{authornamehash}{295857c38dac239d608bc5845c53a7ce}
+      \strng{authorfullhash}{295857c38dac239d608bc5845c53a7ce}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{note}{Karlsruhe Series in Photonics and Communications, Vol. 15}
+      \field{title}{Silicon-Organic Hybrid Platform for Photonic Integrated Circuits}
+      \field{type}{phdthesis}
+      \field{year}{2013}
+    \endentry
+    \entry{SiPhPavesi16}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bb2601e14254b2d6984b50836393b371}{%
+           family={L.\bibnamedelimi Pavesi},
+           familyi={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={et.\bibnamedelimi Al},
+           giveni={e\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Gordon}%
+        {Breach Publishers}%
+      }
+      \strng{namehash}{bb2601e14254b2d6984b50836393b371}
+      \strng{fullhash}{bb2601e14254b2d6984b50836393b371}
+      \strng{authornamehash}{bb2601e14254b2d6984b50836393b371}
+      \strng{authorfullhash}{bb2601e14254b2d6984b50836393b371}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-642-10503-6}
+      \field{title}{Silicon Photonics}
+      \field{volume}{122}
+      \field{year}{2016}
+    \endentry
+    \entry{LinMZM14}{article}{}
+      \name{author}{5}{}{%
+        {{hash=bcf15e17c824a2e913a8991ede1fa439}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={C.T.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=82ed35261fe43f12b65807d95e46cd54}{%
+           family={J.Chen},
+           familyi={J\bibinitperiod}}}%
+        {{hash=2f4cdfc1efd7be3bf3d6a01cb71cc9d8}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={S.P.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8fc71e1c7684edf349b3929cc36f4a97}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={P.C.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a3be8435554a5c32829a6f5bedf7b937}{%
+           family={Chi},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{079ebf62c2081b962aa9ab14a3b2a584}
+      \strng{fullhash}{c0cd58e5024ba291c27d40063074ceda}
+      \strng{authornamehash}{079ebf62c2081b962aa9ab14a3b2a584}
+      \strng{authorfullhash}{c0cd58e5024ba291c27d40063074ceda}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Lightwave Technology}
+      \field{title}{Impact of Nonlinear Transfer Function and Imperfect Splitting Ratio of MZM on Optical Up-Conversion Employing Double Sideband With Carrier Suppression Modulation}
+      \field{volume}{26}
+      \field{year}{2008}
+    \endentry
+    \entry{LindenmannPWB12}{article}{}
+      \name{author}{8}{}{%
+        {{hash=00d64fc1f62df94335a8dc72df1bd0c3}{%
+           family={Lindenmann},
+           familyi={L\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d27407db4aa4bd97b3e1b1e16cfd8a33}{%
+           family={Balthasar},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a432c606ebed6fc0d4b658c1a54db12b}{%
+           family={Hillerkuss},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=629773bc2894d5436b745e6fa523d18c}{%
+           family={Schmogrow},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7fd484be47dd44e58daa3bbcc2f4dd16}{%
+           family={Jordan},
+           familyi={J\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e411872546672348cd0ee6570aa4aa31}{%
+           family={Leuthold},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c0939449cfd84e506e70bd923497fc84}{%
+           family={Freude},
+           familyi={F\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b5ce9a8ed232c7fab9af5bb16a91c705}{%
+           family={Koos},
+           familyi={K\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OSA}%
+      }
+      \strng{namehash}{d79415be1ccb36bc1274d849d372236f}
+      \strng{fullhash}{e4214692b4b035863e6795e13c557587}
+      \strng{authornamehash}{d79415be1ccb36bc1274d849d372236f}
+      \strng{authorfullhash}{e4214692b4b035863e6795e13c557587}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Express}
+      \field{title}{Photonic wire bonding: a novel concept for chipscale interconnects}
+      \field{volume}{20}
+      \field{year}{2012}
+    \endentry
+    \entry{MenzelTempLD95}{article}{}
+      \name{author}{6}{}{%
+        {{hash=6b3b9b575579dfe9cabde743def011f2}{%
+           family={Menzel},
+           familyi={M\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod}}}%
+        {{hash=66313cd94a9b8e17783e98a701b7439f}{%
+           family={Barwolff},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=787c845816bb57d2de07ab095ef60ce1}{%
+           family={Enders},
+           familyi={E\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8485c2437b88d70b0d5ca8ae7603d111}{%
+           family={Ackermanni},
+           familyi={A\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6ad65c1054ee21eda99caadb0d10fa0e}{%
+           family={Puchert},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=10eb92b0f6f09311eaffd8d498d6ee38}{%
+           family={voss},
+           familyi={v\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Science}%
+      }
+      \strng{namehash}{22d15cf630d9109923d12ae39126292d}
+      \strng{fullhash}{da96f8d9e24d7b1e4eb82ab615cffe31}
+      \strng{authornamehash}{22d15cf630d9109923d12ae39126292d}
+      \strng{authorfullhash}{da96f8d9e24d7b1e4eb82ab615cffe31}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Semiconductor Science Technology}
+      \field{title}{{Modelling the temperature dependence of threshold current, external differential efficiency and lasing wavelength in QW laser diodes}}
+      \field{volume}{10}
+      \field{year}{1995}
+    \endentry
+    \entry{MoehrleHCSEL10}{article}{}
+      \name{author}{8}{}{%
+        {{hash=b921ca4cb25e565079520a16706e5beb}{%
+           family={Moehrle},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e3dd951d43fcaca7562679911b2e754c}{%
+           family={Kreissl},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=76bf5d1c61fdbd3f7bdf70b3ce3d45fb}{%
+           family={Molzow},
+           familyi={M\bibinitperiod},
+           given={W.D.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e56bf2845b53abdace7fc00afd0f1000}{%
+           family={Przyrembel},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e58cd7e7b2bf7285613adcaba1b614c5}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=800602f4d1682534dc3a5a3e230fb2bf}{%
+           family={Sigmund},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4e5703898539e373eb1d43ac9b4a740e}{%
+           family={Moerl},
+           familyi={M\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=edc89cac78457dbf164e2b195424738e}{%
+           family={Grote},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{636715e1d972e08f862f287b2ede3cb4}
+      \strng{fullhash}{d6ed1abffc443dac88f7ef29fd93edc8}
+      \strng{authornamehash}{636715e1d972e08f862f287b2ede3cb4}
+      \strng{authorfullhash}{d6ed1abffc443dac88f7ef29fd93edc8}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IPRM 2010}
+      \field{title}{"Ultra-low threshold 1490 nm surface-emitting BH-DFB laser diode with integrated monitor photodiode"}
+      \field{year}{2010}
+      \field{pages}{55\bibrangedash 58}
+      \range{pages}{4}
+    \endentry
+    \entry{NakwaskiTempLD83}{article}{}
+      \name{author}{1}{}{%
+        {{hash=51f233a8c64b1d9ac6b5afd6afa59171}{%
+           family={Nakwaski},
+           familyi={N\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Science}%
+      }
+      \strng{namehash}{51f233a8c64b1d9ac6b5afd6afa59171}
+      \strng{fullhash}{51f233a8c64b1d9ac6b5afd6afa59171}
+      \strng{authornamehash}{51f233a8c64b1d9ac6b5afd6afa59171}
+      \strng{authorfullhash}{51f233a8c64b1d9ac6b5afd6afa59171}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sov. J. Quantum Electronics}
+      \field{title}{{Simplified thermal analysis of a laser diode array}}
+      \field{volume}{14}
+      \field{year}{1995}
+    \endentry
+    \entry{singhmiyataNLOorganic96}{book}{}
+      \name{author}{2}{}{%
+        {{hash=bc9df01dd0dc432d092dbdd4c1edaaf3}{%
+           family={Nalwa},
+           familyi={N\bibinitperiod},
+           given={H.\bibnamedelimi Singh},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=de9faf6535cfda52bc49d18f506a5b16}{%
+           family={Miyata},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{009c9c92313597b23ee1cd957045c44c}
+      \strng{fullhash}{009c9c92313597b23ee1cd957045c44c}
+      \strng{authornamehash}{009c9c92313597b23ee1cd957045c44c}
+      \strng{authorfullhash}{009c9c92313597b23ee1cd957045c44c}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-849-38923-8}
+      \field{title}{Nonlinear Optics of Organic Molecules and Polymers}
+      \field{year}{1996}
+    \endentry
+    \entry{TapWGOnanuga14}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=f19e91c816a7dc7d1dccba58c9ab2a02}{%
+           family={Onanuga},
+           familyi={O\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Karlsruhe Institute of Technology}%
+      }
+      \list{location}{1}{%
+        {Straße Am Forum 2, 76131, Karlsruhe}%
+      }
+      \strng{namehash}{f19e91c816a7dc7d1dccba58c9ab2a02}
+      \strng{fullhash}{f19e91c816a7dc7d1dccba58c9ab2a02}
+      \strng{authornamehash}{f19e91c816a7dc7d1dccba58c9ab2a02}
+      \strng{authorfullhash}{f19e91c816a7dc7d1dccba58c9ab2a02}
+      \field{sortinit}{O}
+      \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Optimal Taper Geometries for Photonic Wire Bonds}
+      \field{type}{phdthesis}
+      \field{year}{2014}
+    \endentry
+    \entry{SOHPajkovic16}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=a80b95ad6ae0c4eae3bcd6c827698b92}{%
+           family={Pajković},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Karlsruhe Institute of Technology}%
+      }
+      \list{location}{1}{%
+        {Straße Am Forum 2, 76131, Karlsruhe}%
+      }
+      \strng{namehash}{a80b95ad6ae0c4eae3bcd6c827698b92}
+      \strng{fullhash}{a80b95ad6ae0c4eae3bcd6c827698b92}
+      \strng{authornamehash}{a80b95ad6ae0c4eae3bcd6c827698b92}
+      \strng{authorfullhash}{a80b95ad6ae0c4eae3bcd6c827698b92}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Transmitter Packaging - Seamless Integration of InP Lasers and SOH MOdulators}
+      \field{type}{phdthesis}
+      \field{year}{2016}
+    \endentry
+    \entry{PalmerSSconv13}{article}{}
+      \name{author}{12}{}{%
+        {{hash=41f0182ade158f314d7d7b7c1d9026d5}{%
+           family={Palmer},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b4f4b5825ebf333b90839ff265b950ea}{%
+           family={Alloatti},
+           familyi={A\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=295857c38dac239d608bc5845c53a7ce}{%
+           family={Korn},
+           familyi={K\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3989d864574e99ad38e876c5a7c4c4e3}{%
+           family={W.Heni},
+           familyi={W\bibinitperiod}}}%
+        {{hash=756fb9ce400931b756e55ecc55ba9a3c}{%
+           family={Schindler},
+           familyi={S\bibinitperiod},
+           given={P.C.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=03a73f56f5c583c69fc45c0aef227efb}{%
+           family={Bolten},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d978b26362cc31dbd5dc86b0914d5470}{%
+           family={Karl},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3debeb22cf06bf8e15d69e146babe2a9}{%
+           family={Waldow},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1808cdd99d7465b40c0c1870ec6f130d}{%
+           family={Wahlbrink},
+           familyi={W\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c0939449cfd84e506e70bd923497fc84}{%
+           family={Freude},
+           familyi={F\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b5ce9a8ed232c7fab9af5bb16a91c705}{%
+           family={Koos},
+           familyi={K\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e411872546672348cd0ee6570aa4aa31}{%
+           family={Leuthold},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{ac61ef5633636dda2806c321723bbfbc}
+      \strng{fullhash}{3d20dc0c4f7a510266cef4fb79ea84c2}
+      \strng{authornamehash}{ac61ef5633636dda2806c321723bbfbc}
+      \strng{authorfullhash}{3d20dc0c4f7a510266cef4fb79ea84c2}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Photonics Journal}
+      \field{title}{{Low-Loss Silicon Strip-to-Slot Mode Converters}}
+      \field{volume}{5}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1109/JPHOT.2013.2239283
+      \endverb
+    \endentry
+    \entry{PavesiSi06}{book}{}
+      \name{author}{2}{}{%
+        {{hash=4f792e6277a761bab31769be7306f060}{%
+           family={Pavesi},
+           familyi={P\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=aee27de33c2afa28b65415e8bde30c53}{%
+           family={Guillot},
+           familyi={G\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media}%
+      }
+      \strng{namehash}{b2725bc1c5c48bc230f0f8a295ee3f19}
+      \strng{fullhash}{b2725bc1c5c48bc230f0f8a295ee3f19}
+      \strng{authornamehash}{b2725bc1c5c48bc230f0f8a295ee3f19}
+      \strng{authorfullhash}{b2725bc1c5c48bc230f0f8a295ee3f19}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optical Interconnects: The Silicon Approach}
+      \field{year}{2006}
+    \endentry
+    \entry{IntPWBPetek16}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=007bff235a840eebb80f9cc2b58b6a26}{%
+           family={Petek},
+           familyi={P\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Karlsruhe Institute of Technology}%
+      }
+      \list{location}{1}{%
+        {Straße Am Forum 2, 76131, Karlsruhe}%
+      }
+      \strng{namehash}{007bff235a840eebb80f9cc2b58b6a26}
+      \strng{fullhash}{007bff235a840eebb80f9cc2b58b6a26}
+      \strng{authornamehash}{007bff235a840eebb80f9cc2b58b6a26}
+      \strng{authorfullhash}{007bff235a840eebb80f9cc2b58b6a26}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Multi-chip Integration of VCSEL and Silicon Photonics by Photonic Wire Bonding}
+      \field{type}{phdthesis}
+      \field{year}{2016}
+    \endentry
+    \entry{MMIRainer16}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=07a77dacbf2416db12e9ccf371ad7635}{%
+           family={Rainer},
+           familyi={R\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Karlsruhe Institute of Technology}%
+      }
+      \list{location}{1}{%
+        {Straße Am Forum 2, 76131, Karlsruhe}%
+      }
+      \strng{namehash}{07a77dacbf2416db12e9ccf371ad7635}
+      \strng{fullhash}{07a77dacbf2416db12e9ccf371ad7635}
+      \strng{authornamehash}{07a77dacbf2416db12e9ccf371ad7635}
+      \strng{authorfullhash}{07a77dacbf2416db12e9ccf371ad7635}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Fabrication and Characterization of a Multi-chip Transmitter Module by Photonic Wire Bonding}
+      \field{type}{phdthesis}
+      \field{year}{2016}
+    \endentry
+    \entry{SiPhReed04}{book}{}
+      \name{author}{2}{}{%
+        {{hash=f3c090ddfeb07075bda2401ff70eb8f2}{%
+           family={Reed},
+           familyi={R\bibinitperiod},
+           given={G.T.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0c13c5b0a347a6ecaad388bc9f0b1e28}{%
+           family={Knights},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {John Wiley}%
+        {Sons}%
+      }
+      \strng{namehash}{c4ee29e7702ff7af596e932f38718992}
+      \strng{fullhash}{c4ee29e7702ff7af596e932f38718992}
+      \strng{authornamehash}{c4ee29e7702ff7af596e932f38718992}
+      \strng{authorfullhash}{c4ee29e7702ff7af596e932f38718992}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-470-87035-8}
+      \field{title}{Silicon Photonics III: Systems and Applications}
+      \field{year}{2014}
+    \endentry
+    \entry{Reedmod05}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f3c090ddfeb07075bda2401ff70eb8f2}{%
+           family={Reed},
+           familyi={R\bibinitperiod},
+           given={G.T.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b9c2053f1fef37f14aaaf92daccaab3f}{%
+           family={Png},
+           familyi={P\bibinitperiod},
+           given={C.E.\bibnamedelimi Jason},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{75416b853184d2831cb8d6b097812597}
+      \strng{fullhash}{75416b853184d2831cb8d6b097812597}
+      \strng{authornamehash}{75416b853184d2831cb8d6b097812597}
+      \strng{authorfullhash}{75416b853184d2831cb8d6b097812597}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Materials Today Review Paper}
+      \field{title}{Silicon Optical Modulators}
+      \field{year}{2005}
+    \endentry
+    \entry{ReedSOI14}{article}{}
+      \name{author}{6}{}{%
+        {{hash=f3c090ddfeb07075bda2401ff70eb8f2}{%
+           family={Reed},
+           familyi={R\bibinitperiod},
+           given={G.T.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=073d0a6fe971c7095f9c10b53a9d051a}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b8206d87cb0ed60011ad9e56daf96f7c}{%
+           family={Gardes},
+           familyi={G\bibinitperiod},
+           given={F.Y.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=342c7a87dd22f0d36070df1a006bf19b}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=de2fb82b895e3f1edd98406f8a0789c2}{%
+           family={Fedeli},
+           familyi={F\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2f983645f8df62f389ed392f21a4e461}{%
+           family={Mashanovich},
+           familyi={M\bibinitperiod},
+           given={G.\bibnamedelimi Z.},
+           giveni={G\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers in Physics}%
+      }
+      \strng{namehash}{c2f8b47cb2e5fcfad381fc644222c772}
+      \strng{fullhash}{b32baf415b3fe806cf5ef63781016639}
+      \strng{authornamehash}{c2f8b47cb2e5fcfad381fc644222c772}
+      \strng{authorfullhash}{b32baf415b3fe806cf5ef63781016639}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Physics}
+      \field{title}{High-speed carrier-depletion silicon Mach-Zehnder optical modulators with lateral PN junctions}
+      \field{volume}{2}
+      \field{year}{2014}
+    \endentry
+    \entry{ReedSOI92}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f3c090ddfeb07075bda2401ff70eb8f2}{%
+           family={Reed},
+           familyi={R\bibinitperiod},
+           given={G.T.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ebb49d7ef831e78da9dd00be20a62165}{%
+           family={Jinhua},
+           familyi={J\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e7c55f35e505e09202c63afe894ecda7}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={C.K.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=34eba0dbf6a4d9d7eea7dd6f53293771}{%
+           family={Chenglu},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=95f025a13a8a1856ce8364a6611183ef}{%
+           family={Hemment},
+           familyi={H\bibinitperiod},
+           given={P.L.F.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c2f8b47cb2e5fcfad381fc644222c772}
+      \strng{fullhash}{a7959d183dbb8d7e0eb2bb537e4e40ef}
+      \strng{authornamehash}{c2f8b47cb2e5fcfad381fc644222c772}
+      \strng{authorfullhash}{a7959d183dbb8d7e0eb2bb537e4e40ef}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Materials SCience and Engineering}
+      \field{title}{"Silicon on insulator optical waveguides formed by direct wafer bonding"}
+      \field{volume}{B15}
+      \field{year}{1992}
+      \field{pages}{156\bibrangedash 159}
+      \range{pages}{4}
+    \endentry
+    \entry{SaeckingerMZM09}{book}{}
+      \name{author}{1}{}{%
+        {{hash=51e213f6be6bcbba6874d01f1ce4de87}{%
+           family={Säckinger},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {John Wiley}%
+        {Sons}%
+      }
+      \strng{namehash}{51e213f6be6bcbba6874d01f1ce4de87}
+      \strng{fullhash}{51e213f6be6bcbba6874d01f1ce4de87}
+      \strng{authornamehash}{51e213f6be6bcbba6874d01f1ce4de87}
+      \strng{authorfullhash}{51e213f6be6bcbba6874d01f1ce4de87}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Broadband Circuits for Optical Fiber Communication}
+      \field{year}{2005}
+    \endentry
+    \entry{PhotoSaleh91}{book}{}
+      \name{author}{2}{}{%
+        {{hash=b54835c99caf131bc12a8fd31e9acf1a}{%
+           family={Saleh},
+           familyi={S\bibinitperiod},
+           given={B.\bibnamedelimi E.\bibnamedelimi A.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=79373f7210a4d0ce76b0790594755f34}{%
+           family={Teich},
+           familyi={T\bibinitperiod},
+           given={M.\bibnamedelimi C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {John Wiley}%
+        {Sons}%
+      }
+      \strng{namehash}{750c91debc9e6cc5359fff174128e114}
+      \strng{fullhash}{750c91debc9e6cc5359fff174128e114}
+      \strng{authornamehash}{750c91debc9e6cc5359fff174128e114}
+      \strng{authorfullhash}{750c91debc9e6cc5359fff174128e114}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-471-83965-5}
+      \field{title}{Fundamentals of Photonics}
+      \field{year}{1991}
+    \endentry
+    \entry{SeimetzMod06}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1b72cfa9e5c9cc0cc4cfcc89d34c48e2}{%
+           family={Seimetz},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1b72cfa9e5c9cc0cc4cfcc89d34c48e2}
+      \strng{fullhash}{1b72cfa9e5c9cc0cc4cfcc89d34c48e2}
+      \strng{authornamehash}{1b72cfa9e5c9cc0cc4cfcc89d34c48e2}
+      \strng{authorfullhash}{1b72cfa9e5c9cc0cc4cfcc89d34c48e2}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{High-Order Modulation for Optical Fiber Transmission}
+      \field{year}{2009}
+    \endentry
+    \entry{SeimetzLaser08}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1b72cfa9e5c9cc0cc4cfcc89d34c48e2}{%
+           family={Seimetz},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{1b72cfa9e5c9cc0cc4cfcc89d34c48e2}
+      \strng{fullhash}{1b72cfa9e5c9cc0cc4cfcc89d34c48e2}
+      \strng{authornamehash}{1b72cfa9e5c9cc0cc4cfcc89d34c48e2}
+      \strng{authorfullhash}{1b72cfa9e5c9cc0cc4cfcc89d34c48e2}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{OFC/NFOEC}
+      \field{title}{Laser Linewidth Limitations for Optical Systems with High-Order Modulation Employing Feed Forward Digital Carrier Phase Estimation}
+      \field{year}{2008}
+    \endentry
+    \entry{SelleriWG15}{book}{}
+      \name{author}{3}{}{%
+        {{hash=a2bd30ac98581094f8c2cb4552c5dee1}{%
+           family={Selleri},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ea8d0c392b968fd4c529a6de7f736133}{%
+           family={Vincetti},
+           familyi={V\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7f2fd5c3d8dd628efc74f6786cb82e3b}{%
+           family={Cucinotta},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Società Editrice Esculapio}%
+      }
+      \strng{namehash}{833ac77cf4c136318875c3f3f606d018}
+      \strng{fullhash}{833ac77cf4c136318875c3f3f606d018}
+      \strng{authornamehash}{833ac77cf4c136318875c3f3f606d018}
+      \strng{authorfullhash}{833ac77cf4c136318875c3f3f606d018}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-8-874-88924-2}
+      \field{title}{Optical and Photonic Components}
+      \field{year}{2015}
+    \endentry
+    \entry{SoldanoMMI95}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f9ef103100b3fdb105efe802275875d9}{%
+           family={Soldano},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=e684a7838d9c0c1248db0d7ad7869638}{%
+           family={Pennings},
+           familyi={P\bibinitperiod},
+           given={E.\bibnamedelimi C.M.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6f49c617f723f5e859951da6a046e841}
+      \strng{fullhash}{6f49c617f723f5e859951da6a046e841}
+      \strng{authornamehash}{6f49c617f723f5e859951da6a046e841}
+      \strng{authorfullhash}{6f49c617f723f5e859951da6a046e841}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Lightwave Technology}
+      \field{title}{{Optical multi-mode interference devices based on self-imaging: Principles and applications}}
+      \field{volume}{13}
+      \field{year}{1995}
+      \field{pages}{615\bibrangedash 627}
+      \range{pages}{13}
+    \endentry
+    \entry{ILSinfo16}{online}{}
+      \name{author}{1}{}{%
+        {{hash=30143c43f469a0d0f7ba1ac24541d7eb}{%
+           family={Stats},
+           familyi={S\bibinitperiod},
+           given={International\bibnamedelima Live},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{30143c43f469a0d0f7ba1ac24541d7eb}
+      \strng{fullhash}{30143c43f469a0d0f7ba1ac24541d7eb}
+      \strng{authornamehash}{30143c43f469a0d0f7ba1ac24541d7eb}
+      \strng{authorfullhash}{30143c43f469a0d0f7ba1ac24541d7eb}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Internet Users}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2016}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.internetlivestats.com/internet-users/
+      \endverb
+    \endentry
+    \entry{SwinglerThermal14}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ac0fd489b521b1c2099f80037f3a91b7}{%
+           family={Swingler},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ac0fd489b521b1c2099f80037f3a91b7}
+      \strng{fullhash}{ac0fd489b521b1c2099f80037f3a91b7}
+      \strng{authornamehash}{ac0fd489b521b1c2099f80037f3a91b7}
+      \strng{authorfullhash}{ac0fd489b521b1c2099f80037f3a91b7}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-782-42225-9}
+      \field{title}{Reliability Characterisation of Electrical and Electronic Systems}
+      \field{year}{2014}
+    \endentry
+    \entry{ThomasInfoTheory91}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3eb69e188b2c636d54d1104beb035d35}{%
+           family={T.\bibnamedelimi M.\bibnamedelimi Cover},
+           familyi={T\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={J.\bibnamedelimi A.\bibnamedelimi Thomas},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {John Wiley}%
+        {Sons}%
+      }
+      \strng{namehash}{3eb69e188b2c636d54d1104beb035d35}
+      \strng{fullhash}{3eb69e188b2c636d54d1104beb035d35}
+      \strng{authornamehash}{3eb69e188b2c636d54d1104beb035d35}
+      \strng{authorfullhash}{3eb69e188b2c636d54d1104beb035d35}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-471-06259-6}
+      \field{title}{Elements of Information Theory}
+      \field{year}{1991}
+    \endentry
+    \entry{SPThourhout10}{online}{}
+      \name{author}{1}{}{%
+        {{hash=155ad60fe17844a28b2931115042e3b1}{%
+           family={Thourhout},
+           familyi={T\bibinitperiod},
+           given={Dries\bibnamedelima Van},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{155ad60fe17844a28b2931115042e3b1}
+      \strng{fullhash}{155ad60fe17844a28b2931115042e3b1}
+      \strng{authornamehash}{155ad60fe17844a28b2931115042e3b1}
+      \strng{authorfullhash}{155ad60fe17844a28b2931115042e3b1}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Silicon Photonics ACP 2010 Tutorial}}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2017}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.photonics.intec.ugent.be/download/pub_2733.pdf
+      \endverb
+    \endentry
+    \entry{ToepferPWB14}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=42b453dac2a67a83a3e0c9d67f0b2c14}{%
+           family={Töpfer},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Karlsruhe Institute of Technology}%
+      }
+      \list{location}{1}{%
+        {Straße Am Forum 2, 76131, Karlsruhe}%
+      }
+      \strng{namehash}{42b453dac2a67a83a3e0c9d67f0b2c14}
+      \strng{fullhash}{42b453dac2a67a83a3e0c9d67f0b2c14}
+      \strng{authornamehash}{42b453dac2a67a83a3e0c9d67f0b2c14}
+      \strng{authorfullhash}{42b453dac2a67a83a3e0c9d67f0b2c14}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Study of a Loss Model for Photonic Wire Bonds}
+      \field{type}{phdthesis}
+      \field{year}{2016}
+    \endentry
+    \entry{ITUinfo15}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2962f68e3e13ba34bf4870bb40e7f438}{%
+           family={Union},
+           familyi={U\bibinitperiod},
+           given={International\bibnamedelima Telecommunication},
+           giveni={I\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{2962f68e3e13ba34bf4870bb40e7f438}
+      \strng{fullhash}{2962f68e3e13ba34bf4870bb40e7f438}
+      \strng{authornamehash}{2962f68e3e13ba34bf4870bb40e7f438}
+      \strng{authorfullhash}{2962f68e3e13ba34bf4870bb40e7f438}
+      \field{sortinit}{U}
+      \field{sortinithash}{8145509bd2718876fc77d31fd2cde117}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Measuring the Information Society Report}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2016}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2015/MISR2015-w5.pdf
+      \endverb
+    \endentry
+    \entry{WangGV09}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7ce1d5e878a0bae2ace6a99e3dc13507}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={W.L.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3254f17a53363f18d15ee5f7d89c3560}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6c84127b72d435849130e8e15e036be4}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={W.J.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=f5c0a714f118ab9f4824f782ecb6043d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Z.J.},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{711fdcb4fc44600e474f155dd2a8a636}
+      \strng{fullhash}{06b34e2444384b8436c6ef91855c6a63}
+      \strng{authornamehash}{711fdcb4fc44600e474f155dd2a8a636}
+      \strng{authorfullhash}{06b34e2444384b8436c6ef91855c6a63}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electronics Letters}
+      \field{title}{High voltage SOI SJ-LDMOS with dynamic back-gate voltage}
+      \field{volume}{45}
+      \field{year}{2009}
+    \endentry
+    \entry{NLOPertWard65}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fba98cf340044e922dfcdd535be3936c}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={J.F.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{fba98cf340044e922dfcdd535be3936c}
+      \strng{fullhash}{fba98cf340044e922dfcdd535be3936c}
+      \strng{authornamehash}{fba98cf340044e922dfcdd535be3936c}
+      \strng{authorfullhash}{fba98cf340044e922dfcdd535be3936c}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reviews of Modern Physics}
+      \field{title}{{Calculation of Nonlinear Optical Susceptibilities Using Diagrammatic Perturbation Theory}}
+      \field{volume}{37}
+      \field{year}{1965}
+      \verb{doi}
+      \verb 10.1103/RevModPhys.37.1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1103/RevModPhys.37.1
+      \endverb
+    \endentry
+    \entry{PolyWong13}{book}{}
+      \name{author}{1}{}{%
+        {{hash=231a41f36f384c910f069891a96ff128}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={C.\bibnamedelimi P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{231a41f36f384c910f069891a96ff128}
+      \strng{fullhash}{231a41f36f384c910f069891a96ff128}
+      \strng{authornamehash}{231a41f36f384c910f069891a96ff128}
+      \strng{authorfullhash}{231a41f36f384c910f069891a96ff128}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-4832-8939-7}
+      \field{title}{Polymers for Electronic and Photonic Applications}
+      \field{year}{2013}
+    \endentry
+    \entry{WootenLiNBo300}{article}{}
+      \name{author}{11}{}{%
+        {{hash=da282d13ced695602a559a242f6c9b1a}{%
+           family={Wooten},
+           familyi={W\bibinitperiod},
+           given={Ed\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=9ce7e0f8af508aa66f967e4b709a0784}{%
+           family={Kissa},
+           familyi={K\bibinitperiod},
+           given={Karl\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=6ffcc6230d21b8fe4cc71f19b231019d}{%
+           family={Yi-Yan},
+           familyi={Y\bibinithyphendelim Y\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fe9eba797efe00c696744905eec40117}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={E.J.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=80d95b0156e07b9f941e7b48fff4bec7}{%
+           family={Lafaw},
+           familyi={L\bibinitperiod},
+           given={D.A.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cf2a79def9aa5c8480fc6d25d9e14e81}{%
+           family={Hallemeier},
+           familyi={H\bibinitperiod},
+           given={P.F.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4e9726f8b11fb3e4e8be85aa66a2d294}{%
+           family={Maack},
+           familyi={M\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cb7f12d9bd63bd2db0e3e9a39350f6c5}{%
+           family={Attanasio},
+           familyi={A\bibinitperiod},
+           given={D.V.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f6f6d67c24a67380b9dbfad57c6bfc77}{%
+           family={D.J.\bibnamedelimi Fritz},
+           familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Daniel\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8b69d7025b42468039189cd6cd6896b7}{%
+           family={McBrien},
+           familyi={M\bibinitperiod},
+           given={G.J.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=935699bcc6bd5fd0b392939b0840d4e5}{%
+           family={Bossi},
+           familyi={B\bibinitperiod},
+           given={D.E.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a4541948143be80cb3706c64c288eb73}
+      \strng{fullhash}{17e0bb0a549970091bcbb3edc0f41690}
+      \strng{authornamehash}{a4541948143be80cb3706c64c288eb73}
+      \strng{authorfullhash}{17e0bb0a549970091bcbb3edc0f41690}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Selected Topics in Quantum Electronics}
+      \field{title}{{A Review of Lithium Niobate Modulators for Fiber-Optic Communications Systems}}
+      \field{volume}{6}
+      \field{year}{2000}
+      \field{pages}{69\bibrangedash 82}
+      \range{pages}{14}
+      \verb{url}
+      \verb http://dx.doi.org/10.1109/JPROC.2012.2189786
+      \endverb
+    \endentry
+    \entry{XipolMMI07}{article}{}
+      \name{author}{7}{}{%
+        {{hash=82b49b23c16e27508a5cd28c64d94094}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={D.-X.},
+           giveni={D\bibinithyphendelim X\bibinitperiod}}}%
+        {{hash=70fef9904d58d2622f330130cc82ddac}{%
+           family={Cheben},
+           familyi={C\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cd2858f6beede534d6b007f6a8b981a5}{%
+           family={Delâge},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d9de09b5725714120d1112a423793842}{%
+           family={Janz},
+           familyi={J\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=84fee9fcbfc99c29b9c733075b854cdc}{%
+           family={Lamontagne},
+           familyi={L\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5c22ba2f85b252be9b3036c90f697250}{%
+           family={Post},
+           familyi={P\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d7e1a8188699b53d359f9d765ab0c33d}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={W.\bibnamedelimi N.},
+           giveni={W\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{583e9d551a1d4946f382da3bbb447305}
+      \strng{fullhash}{afa5bdd1f15503fa3b26c0e0dcf96f10}
+      \strng{authornamehash}{583e9d551a1d4946f382da3bbb447305}
+      \strng{authorfullhash}{afa5bdd1f15503fa3b26c0e0dcf96f10}
+      \field{sortinit}{X}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of SPIE}
+      \field{title}{{Polarization-Insensitive MMI-Coupled Ring Resonators In Silicon-On-Insulator Using Cladding Stress Engineering}}
+      \field{volume}{6477}
+      \field{year}{2007}
+      \verb{doi}
+      \verb 10.1117/12.701997
+      \endverb
+    \endentry
+    \entry{AluminaYoshimura81}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3bd4bb47d1afe1658c4bd215461316eb}{%
+           family={Yoshimura},
+           familyi={Y\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7f227c794ee6b4336b05248cc343e1bf}{%
+           family={Bowen},
+           familyi={B\bibinitperiod},
+           given={H.K.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Ceramic Socity}%
+      }
+      \strng{namehash}{a0cf2c11743f0413dbc7367a4f0a6c3d}
+      \strng{fullhash}{a0cf2c11743f0413dbc7367a4f0a6c3d}
+      \strng{authornamehash}{a0cf2c11743f0413dbc7367a4f0a6c3d}
+      \strng{authorfullhash}{a0cf2c11743f0413dbc7367a4f0a6c3d}
+      \field{sortinit}{Y}
+      \field{sortinithash}{3cbc1e3d286284cedb5e5218a3248f94}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Ceramic Society}
+      \field{title}{{Electrical Breakdown Strength of Alumina at High Temperatures}}
+      \field{volume}{64}
+      \field{year}{1981}
+      \field{pages}{404\bibrangedash 410}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1111/j.1151-2916.1981.tb09879
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1111/j.1151-2916.1981.tb09879.x/full
+      \endverb
+    \endentry
+    \entry{TempYoung92}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0d932c6e43f464f4e687552ceb37d0ec}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={H.\bibnamedelimi D.},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison Wesley}%
+      }
+      \strng{namehash}{0d932c6e43f464f4e687552ceb37d0ec}
+      \strng{fullhash}{0d932c6e43f464f4e687552ceb37d0ec}
+      \strng{authornamehash}{0d932c6e43f464f4e687552ceb37d0ec}
+      \strng{authorfullhash}{0d932c6e43f464f4e687552ceb37d0ec}
+      \field{sortinit}{Y}
+      \field{sortinithash}{3cbc1e3d286284cedb5e5218a3248f94}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{University Physics}
+      \field{year}{21992}
+    \endentry
+    \entry{ZappeLaser04}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ee3932fee8b007ee15bde6437909309b}{%
+           family={Zappe},
+           familyi={Z\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media}%
+      }
+      \strng{namehash}{ee3932fee8b007ee15bde6437909309b}
+      \strng{fullhash}{ee3932fee8b007ee15bde6437909309b}
+      \strng{authornamehash}{ee3932fee8b007ee15bde6437909309b}
+      \strng{authorfullhash}{ee3932fee8b007ee15bde6437909309b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-540-40454-5}
+      \field{title}{Laser Diode Microsystems}
+      \field{year}{2004}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

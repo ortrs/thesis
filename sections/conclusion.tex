@@ -1,0 +1,21 @@
+%% LaTeX2e class for student theses
+%% sections/conclusion.tex
+%% 
+%% Karlsruhe Institute of Technology
+%% Institute for Program Structures and Data Organization
+%% Chair for Software Design and Quality (SDQ)
+%%
+%% Dr.-Ing. Erik Burger
+%% burger@kit.edu
+%%
+%% Version 1.2, 2016-09-20
+
+\chapter{Summary and Outlook}
+\label{ch:Conclusion}
+
+A stable process flow for optical packaging of multi-chip modules combining SOH devices with PWB was successfully achieved in the period of development of this master thesis. An initial single-channel device was successfully fabricated with low $V_\pi$ and good transmission of the multi-chip module. The integration process was successfully tested with the first direct detection data transmission experiment using integrated PWB and SOH devices up to 40 Gbit/s, with no specific limitation on the SOH side to achieve 100 Gbit/s parallel single mode direct detection transmission. 
+Through fine tuning and arrangement of the full processing methodology, it was also possible to achieve a homogeneous, consistent  transmission of SOH modulators, with a $V_\pi=\SI{1.3}{\volt\milli\meter}$ that allowed proof-of-concept of data transmission using 16QAM modulation at 56 GBaud with no refractive index-matching oil or UV glue as an overcladding.
+\par \medskip
+The outlook of the project towards a fully-integrated terabit multi-chip module requires further investigation in the fine tuning of the multi-chip module: A $V_\pi<\SI{1}{\volt}$ would decrease the observed nonlinearities when using additional RF amplifiers that require software pre-compensation of the RF response of the modulator. This can be achieved by using optimized electro-optic polymers with higher $r_{33}$ coefficients and thus reducing the $V_\pi$. The optical amplifier (EDFA) can be removed provided sufficient launch power is  injected from the laser side: The performance of the HCSEL is thus a key element to achieve such goal. New light sources such as discrete mode lasers (DML), edge-emitting lasers or comb sources, with reduced linewidth and increased light output power, could enable higher transmission data rates by reducing phase noise for IQ modulation and avoiding external optical amplification. For the photonic wire bond, the application of an overcladding should also improve its performance, by using refractive index matching oil, on a first instance, and UV-curable glue for further optically packaging the transmitter, once the diffusion processes of the EO polymer are well understood.
+\par \medskip
+Finally, further integration of the electrical packaging into the process flow would enable higher reliability of the device and shaping towards a fully packaged solution for terabit optical telecommunications. 
